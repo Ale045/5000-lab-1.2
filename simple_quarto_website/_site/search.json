@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi.\n\n\nProin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim.\n\n\nPellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit.\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nx = np.linspace(0, 2 * np.pi, 100)  \ny = np.sin(x)  \n\n\nplt.figure(figsize=(8, 6))\nplt.plot(x, y, label='sin(x)', color='blue')\nplt.title('Sine Curve using Matplotlib')\nplt.xlabel('x values')\nplt.ylabel('y values')\nplt.grid(True)\nplt.legend()\nplt.show()"
+  },
+  {
+    "objectID": "about.html#section-1.1",
+    "href": "about.html#section-1.1",
+    "title": "About",
+    "section": "",
+    "text": "Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim.\n\n\nPellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit.\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nx = np.linspace(0, 2 * np.pi, 100)  \ny = np.sin(x)  \n\n\nplt.figure(figsize=(8, 6))\nplt.plot(x, y, label='sin(x)', color='blue')\nplt.title('Sine Curve using Matplotlib')\nplt.xlabel('x values')\nplt.ylabel('y values')\nplt.grid(True)\nplt.legend()\nplt.show()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Donec in efficitur leo. Suspendisse potenti. Nunc nec neque pharetra, varius ligula id, viverra arcu. Mauris placerat, ligula eget hendrerit fringilla, orci urna vestibulum nisi, non luctus orci ante nec neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed sit amet massa sodales, ultricies sapien at, lacinia tortor.1\n\n\n\n\nflowchart LR\n  A[Write Something] --&gt; B(Editor review the content)\n  B --&gt; C{Does the content need revision?}\n  C --&gt; D[No, then publish the content]\n  C --&gt; E[Yes, then go back to step A]\n  E --&gt; A\n\n\n\nA simple mermaid diagram for publishing a work.\n\n\n\nHere are some formula related to Electromagnetic field \\[\n\\nabla \\cdot \\mathbf{E} = \\frac{\\rho}{\\varepsilon_0}\n\\]\n\\[\n\\nabla \\cdot \\mathbf{B} = 0\n\\]\n\n\n\n\n\nPellentesque in dapibus erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi semper, nisl eu dignissim mollis, justo diam aliquet ante, non sodales ante odio a justo. Fusce non dictum lorem. Sed sit amet ante non augue egestas accumsan at vel augue. Curabitur at tincidunt orci. Proin at semper magna. Nam auctor, nisl in congue vestibulum, ligula urna cursus tellus, id eleifend turpis est sit amet nulla.\n\n\nCurabitur non nulla sit amet nisl tempus convallis quis ac lectus. Vivamus suscipit tortor eget felis porttitor volutpat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Pellentesque in ipsum id orci porta dapibus. Donec sollicitudin molestie malesuada (O’brien 2007).\n\n\n\nAccording to the famous equation \\(E = mc^2\\), a tiny bit of mass could produce huge amout energy.\nHere are some AI generated cars:\n\n\n\n\nQuisque ullamcorper auctor orci, sit amet cursus urna pulvinar ut. Etiam quam nisl, convallis a unum at, facilisis ullamcorper est. Sed est diam, pretium in semper nec, finibus non lorem. Vivamus eu pellentesque dui, non ultrices orci. Aenean sit amet varius dui. Nulla facilisi. Integer quis arcu varius, tempor quam ut, tempus justo.\n\n\n\nVivamus magna justo, lacinia eget consectetur sed, convallis at tellus\nMauris blandit aliquet elit, eget tincidunt nibh pulvinar a\nNulla quis lorem ut libero malesuada feugiat.\n\n\n\n\nName\nAge\nGender\n\n\n\n\nAlex\n23\nMale\n\n\nRose\n22\nFemale\n\n\nMarry\n19\nFemale\n\n\n\n\n“It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change.”\n— Charles Darwin\n\nView on circular quay in Sydney Video"
+  },
+  {
+    "objectID": "index.html#section-2",
+    "href": "index.html#section-2",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Pellentesque in dapibus erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi semper, nisl eu dignissim mollis, justo diam aliquet ante, non sodales ante odio a justo. Fusce non dictum lorem. Sed sit amet ante non augue egestas accumsan at vel augue. Curabitur at tincidunt orci. Proin at semper magna. Nam auctor, nisl in congue vestibulum, ligula urna cursus tellus, id eleifend turpis est sit amet nulla.\n\n\nCurabitur non nulla sit amet nisl tempus convallis quis ac lectus. Vivamus suscipit tortor eget felis porttitor volutpat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Pellentesque in ipsum id orci porta dapibus. Donec sollicitudin molestie malesuada (O’brien 2007).\n\n\n\nAccording to the famous equation \\(E = mc^2\\), a tiny bit of mass could produce huge amout energy.\nHere are some AI generated cars:\n\n\n\n\nQuisque ullamcorper auctor orci, sit amet cursus urna pulvinar ut. Etiam quam nisl, convallis a unum at, facilisis ullamcorper est. Sed est diam, pretium in semper nec, finibus non lorem. Vivamus eu pellentesque dui, non ultrices orci. Aenean sit amet varius dui. Nulla facilisi. Integer quis arcu varius, tempor quam ut, tempus justo.\n\n\n\nVivamus magna justo, lacinia eget consectetur sed, convallis at tellus\nMauris blandit aliquet elit, eget tincidunt nibh pulvinar a\nNulla quis lorem ut libero malesuada feugiat.\n\n\n\n\nName\nAge\nGender\n\n\n\n\nAlex\n23\nMale\n\n\nRose\n22\nFemale\n\n\nMarry\n19\nFemale\n\n\n\n\n“It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change.”\n— Charles Darwin\n\nView on circular quay in Sydney Video"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nJust some ipsum lorem place holders↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#some-citing-demos",
+    "href": "slides/slides.html#some-citing-demos",
+    "title": "Demo",
+    "section": "Some citing demos",
+    "text": "Some citing demos\n\nThe subject of quantum computing brings together ideas from classical information theory, computer science, and quantum physics.(Steane 1998)\nKey challenges will be the realization of high-efficiency sources of indistinguishable single photons, low-loss, scalable optical circuits, high-efficiency single-photon detectors, and low-loss interfacing of these components. (O’brien 2007)"
+  },
+  {
+    "objectID": "slides/slides.html#python-plot-demo",
+    "href": "slides/slides.html#python-plot-demo",
+    "title": "Demo",
+    "section": "Python Plot Demo",
+    "text": "Python Plot Demo\n\n\nCode\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\n# Create an array of x values from -10 to 10\nx = np.linspace(-10, 10, 400)\n\n# Compute the corresponding y values\ny = x**2\n\n# Plot the function\nplt.plot(x, y, label=\"y = x^2\")\nplt.title(\"Plot of y = x^2\")\nplt.xlabel(\"x\")\nplt.ylabel(\"y\")\nplt.legend()\nplt.grid(True)\nplt.show()"
+  },
+  {
+    "objectID": "slides/slides.html#pitcure-demo",
+    "href": "slides/slides.html#pitcure-demo",
+    "title": "Demo",
+    "section": "Pitcure Demo",
+    "text": "Pitcure Demo\nSome AI generated pictures\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nO’brien, Jeremy L. 2007. “Optical Quantum Computing.” Science 318 (5856): 1567–70.\n\n\nSteane, Andrew. 1998. “Quantum Computing.” Reports on Progress in Physics 61 (2): 117."
+  }
+]

@@ -1,0 +1,77 @@
+---
+title: "simple_quarto_website"
+format: 
+    html: 
+        toc: true
+        embed-resources: true
+
+bibliography: reference.bib
+---
+
+# Section-1
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Donec in efficitur leo. Suspendisse potenti. Nunc nec neque pharetra, varius ligula id, viverra arcu. Mauris placerat, ligula eget hendrerit fringilla, orci urna vestibulum nisi, non luctus orci ante nec neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed sit amet massa sodales, ultricies sapien at, lacinia tortor.[^1]
+```{mermaid}
+%%| fig-cap: "A  simple mermaid diagram for publishing a work."
+%%| code-fold: false
+flowchart LR
+  A[Write Something] --> B(Editor review the content)
+  B --> C{Does the content need revision?}
+  C --> D[No, then publish the content]
+  C --> E[Yes, then go back to step A]
+  E --> A
+
+```
+
+Here are some formula related to Electromagnetic field 
+$$
+\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon_0}
+$$
+
+$$
+\nabla \cdot \mathbf{B} = 0
+$$
+
+## Section-2
+::: {layout-ncol=2}
+
+Pellentesque in dapibus erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi semper, nisl eu dignissim mollis, justo diam aliquet ante, non sodales ante odio a justo. Fusce non dictum lorem. Sed sit amet ante non augue egestas accumsan at vel augue. Curabitur at tincidunt orci. Proin at semper magna. Nam auctor, nisl in congue vestibulum, ligula urna cursus tellus, id eleifend turpis est sit amet nulla.
+
+Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Vivamus suscipit tortor eget felis porttitor volutpat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Pellentesque in ipsum id orci porta dapibus. Donec sollicitudin molestie malesuada [@o2007optical].
+
+:::
+
+According to the famous equation $E = mc^2$, a tiny bit of mass could produce huge amout energy.
+
+Here are some AI generated cars:
+
+![](images/_fa550ebd-1bdb-4887-ac19-07f3266ac40d.png)
+
+![](images/_ffbc9cf7-d08e-465f-80ce-1e52073193b4.png)
+
+
+### Section-3
+Quisque ullamcorper auctor orci, sit amet cursus urna pulvinar ut. Etiam quam nisl, convallis a unum at, facilisis ullamcorper est. Sed est diam, pretium in semper nec, finibus non lorem. Vivamus eu pellentesque dui, non ultrices orci. Aenean sit amet varius dui. Nulla facilisi. Integer quis arcu varius, tempor quam ut, tempus justo.
+
+#### Key Finds
+
+- Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus
+- Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a
+- Nulla quis lorem ut libero malesuada feugiat.
+
+| Name | Age | Gender |
+|---------|---------|---------|
+| Alex  | 23  | Male |
+| Rose  | 22  | Female  |
+| Marry  | 19  | Female  |
+
+> "It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change." 
+>
+> — Charles Darwin
+
+View on circular quay in Sydney
+![](images/IMG_8196.mp4)
+
+
+
+
+[^1]: Just some ipsum lorem place holders
