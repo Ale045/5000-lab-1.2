@@ -68,9 +68,9 @@ Quisque ullamcorper auctor orci, sit amet cursus urna pulvinar ut. Etiam quam ni
 >
 > — Charles Darwin
 
-View on circular quay in Sydney
-![](images/IMG_8196.mp4)
+Chris Paul highlights
 
+{{< video https://www.youtube.com/watch?v=t5ZQNvHs3vc >}}
 
 
 
